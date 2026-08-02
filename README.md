@@ -50,7 +50,7 @@ Manage Steam Workshop and local mods with an intuitive interface. Create multipl
 
 ## Installation
 
-[DOWNLOAD](////////)
+[DOWNLOAD](https://tomwcode1905m2.github.io/Project-Zomboid-Mod-Manager-Build-42/)
 
 ## Project Structure
 
